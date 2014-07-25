@@ -6,3 +6,4 @@
 4. Doing a Thing
 5. Committing to master directly
 6. Pencils and Markers
+7. Koalas
